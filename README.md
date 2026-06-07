@@ -3,8 +3,7 @@
 
 Behold, through a socket server running in Python, here's a simple chat that anyone can access easily on their network!
 
-# Here's how to download + run it!
-
+# Download + Run:
 Step 1: Download files:
 
 
