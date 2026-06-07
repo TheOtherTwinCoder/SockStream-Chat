@@ -47,9 +47,13 @@ Enter the IP from the host side:
 <img width="804" height="427" alt="Screenshot 2026-06-06 at 5 22 35 PM" src="https://github.com/user-attachments/assets/98b7e3ac-f99b-4d34-86b6-7fc996052049" />
 
 Then, enter the port:
+
+
 <img width="804" height="427" alt="Screenshot 2026-06-06 at 5 23 22 PM" src="https://github.com/user-attachments/assets/c9e30772-933c-4516-8a8e-f898ee69dc1e" />
 
 Let the server (host) click next, then join the socket connection by pressing "Next" on the client. Eventually, both will be met with the "Chat" screen:
+
+
 <img width="804" height="427" alt="Screenshot 2026-06-06 at 5 24 29 PM" src="https://github.com/user-attachments/assets/4e433ab5-fdeb-4d51-9f26-1ac157cc1a39" />
 
 Happy chatting (and coding!!)
