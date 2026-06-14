@@ -5,6 +5,8 @@ Behold, through a socket server running in Python, here's a simple chat that any
 
 Used it for chatting between my brother and I while creating music! It was great!
 
+Use Pygame 2.6.1 to run this app.
+
 # Download + Run:
 Here's how to use it:
 
