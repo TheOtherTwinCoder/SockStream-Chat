@@ -10,7 +10,6 @@ Use Pygame 2.6.1 to run this app.
 # Download + Run:
 Here's how to use it:
 
-On MAC ONLY:
 Run the executable, which will run everything for you. Be patient, it may take a while!
 
 # Try it out!
