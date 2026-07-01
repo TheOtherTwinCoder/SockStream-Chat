@@ -10,7 +10,7 @@ Use Pygame 2.6.1 to run this app.
 # Download + Run:
 Here's how to use it:
 
-Run the executable, which will run everything for you. Be patient, it may take a while!
+Head to Actions, then click on the latest version. Scroll down to artifacts, and run it there! You'll need two computers.
 
 # Try it out!
 
